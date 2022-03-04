@@ -1,3 +1,4 @@
 # GeometryLab1
 
-[L1.pdf](https://github.com/kigya/GeometryLab1/files/8188165/L1.pdf)
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/73034324/156824665-a87ab93a-35a1-450f-bdfb-2e2eaf779cbf.png">
+
